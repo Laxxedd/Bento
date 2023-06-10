@@ -54,7 +54,7 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'Roblox',
-			icon: 'roblox',
+			icon: 'codesandbox',
 			link: 'https://roblox.com/',
 		},
 		{
